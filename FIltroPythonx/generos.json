@@ -1,0 +1,14 @@
+[
+    {
+        "identificadorGenero": "G01",
+        "nombreGenero": "ACCION"
+    },
+    {
+        "identificadorGenero": "G02",
+        "nombreGenero": "COMEDIA"
+    },
+    {
+        "identificadorGenero": "G03",
+        "nombreGenero": "FANTASIA"
+    }
+]

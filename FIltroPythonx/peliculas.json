@@ -1,0 +1,56 @@
+[
+    {
+        "idPelicula": "P01",
+        "nombrePelicula": "PIRATAS DEL CARIBE",
+        "duracionPelicula": "1:60",
+        "sinopsisPelicula": "UNOS PIRATAS QUE SE ENCUENTRAN EN EL CARIBE",
+        "actoresPelicula": [
+            "JHONNY DEEP"
+        ],
+        "identificadorFormato": "F01",
+        "formatoPelicula": "DVD",
+        "idGenero": "G01",
+        "generoPelicula": "ACCION",
+        "identificadorActor": "A01"
+    },
+    {
+        "idPelicula": "P02",
+        "nombrePelicula": "THE LORD OF THE RINGS",
+        "duracionPelicula": "3:20",
+        "sinopsisPelicula": "JAJA",
+        "actoresPelicula": [
+            "JHONNY DEEP"
+        ],
+        "identificadorFormato": "F01",
+        "formatoPelicula": "DVD",
+        "idGenero": "G01",
+        "generoPelicula": "ACCION",
+        "identificadorActor": "A01"
+    },
+    {
+        "idPelicula": "P03",
+        "nombrePelicula": "ROCKY BALBOA",
+        "duracionPelicula": "2:00",
+        "sinopsisPelicula": "UN BOXEADOR",
+        "actoresPelicula": "SILVESTRE STALLONE",
+        "identificadorFormato": "F02",
+        "formatoPelicula": "BLUE RAY",
+        "idGenero": "G01",
+        "generoPelicula": "ACCION",
+        "identificadorActor": "A01"
+    },
+    {
+        "idPelicula": "P04",
+        "nombrePelicula": "RAMBO",
+        "duracionPelicula": "2:20",
+        "sinopsisPelicula": "MATANZA",
+        "actoresPelicula": [
+            "JHONNY DEEP"
+        ],
+        "identificadorFormato": "F02",
+        "formatoPelicula": "BLUE RAY",
+        "idGenero": "G01",
+        "generoPelicula": "ACCION",
+        "identificadorActor": "A01"
+    }
+]
